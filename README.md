@@ -4,7 +4,6 @@
 
 <img src="./public/asset/jejepick_splash.jpg" alt="제제픽 표지"/>
 
-
 ## 팀원 - 6명 
 권오성, 김호성, 박정아, 이지영, 조자룡, 홍민경
 <br />
