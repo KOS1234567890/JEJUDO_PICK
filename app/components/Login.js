@@ -83,7 +83,7 @@ function Login() {
 					/>
 				</div>
 				<div className={style.registertxt}>
-					<p>회원이 아니신가요? <a href='./signup'> 회원가입</a></p>
+					<p>회원이 아니신가요 ? <a href='./signup'> 회원가입</a></p>
 				</div>
 			</form>
 			<img src='/asset/common//loginfooterimg.svg'></img>
